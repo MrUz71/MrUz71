@@ -5,27 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzxteam&label=Profile%20views&color=0e75b6&style=flat" alt="uzxteam" /> </p>
 
 
-- 🔭 I’m currently working on [BOTRONIX AI](https://auto.botronix.uz/)
-
 - 🌱 I’m currently learning FLUTTER
 
-- 👯 I’m looking to collaborate on [ANTIHACK](https://antihack.uz/)
-
-- 🤝 I’m looking for help with [DOKON BOR](https://play.google.com/store/apps/details?id=dasturchiuzx.dokonbor)
-
-- 👨‍💻 All of my projects are available at [https://uzxteam.uz](https://uzxteam.uz)
-
-- 📝 I regularly write articles on [https://t.me/uzx_team](https://t.me/uzx_team)
-
-- 💬 Ask me about PHP JAVA
-
-- 📫 How to reach me admin@uzxteam.uz
-
-- 📄 Know about my experiences [https://uzxteam.uz](https://uzxteam.uz)
-
-- ⚡️ Fun fact I participated in more than 10 projects
-
-<h3 align="left">Connect with me: https://t.me/mamurof</h3>
+- 📝 I regularly write articles on [https://t.me/uzx_team](https://t.me/mr_uzx)
 <p align="left">
 </p>
 
