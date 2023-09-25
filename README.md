@@ -1,4 +1,4 @@
-<img src="" alt="MasterHead" data-canonical-src="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRndjMwM3Zsbm9peGp3amEzZXBtbWp3YWxjZ2ttOGl6bjU3dnlicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead" data-canonical-src="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm MrUz</h1>
 <h3 align="center">A passionate mobil developer from Uzbekistan</h3>
  <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="uzxteam" /> 
